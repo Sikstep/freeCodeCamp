@@ -34,3 +34,6 @@ const wordBlanks =
   "A " + myAdjective + " " + myNoun + " " + myVerb + " " + myAdverb + "."; // Change this line
 // Only change code above this line
 console.log(wordBlanks);
+
+// Only change code below this line
+const myArray = ["butter", 1, "lol", 5];
