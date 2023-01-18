@@ -36,4 +36,8 @@ const wordBlanks =
 console.log(wordBlanks);
 
 // Only change code below this line
-const myArray = ["butter", 1, "lol", 5];
+// const myArray = ["butter", 1, "lol", 5];
+// Only change code below this line
+// const myArray = [['myName', 'Kosty'], [7, 9]];
+const myArray = [50, 60, 70];
+const myData = myArray[0];
