@@ -33,3 +33,30 @@ function processArg(num) {
 
 // Only change code below this line
 processed = processArg(7);
+
+// Setup
+function testStrictNotEqual(val) {
+  if (val !== 17) {
+    // Change this line
+    return "Not Equal";
+  }
+  return "Equal";
+}
+
+testStrictNotEqual(10);
+
+function testGreaterOrEqual(val) {
+  if (val >= 20) {
+    // Change this line
+    return "20 or Over";
+  }
+
+  if (val >= 10) {
+    // Change this line
+    return "10 or Over";
+  }
+
+  return "Less than 10";
+}
+
+testGreaterOrEqual(10);
