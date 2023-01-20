@@ -149,3 +149,13 @@ cc(3);
 cc(7);
 cc("K");
 console.log(cc("A"));
+
+const myDog = {
+  // Only change code below this line
+  name: "Guff",
+  legs: 4,
+  tails: 1,
+  friends: ["Water", "AnotherDogs"],
+
+  // Only change code above this line
+};
